@@ -23,7 +23,7 @@ Hi I'm Natakit
 ## 🛠 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,php,html,css,nodejs,sqlite,git,github,linux,vscode,pycharm,opencv,pytorch,arduino,raspberrypi,unity&theme=dark&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,javascript,git,github,linux,vscode,opencv,pytorch,arduino,raspberrypi,unity&theme=dark&perline=5"/>
 </p>
 
 

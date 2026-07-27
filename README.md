@@ -1,15 +1,16 @@
 <h1 align="center">
-Hi 👋 I'm Natakit
+Hi I'm Natakit
 </h1>
 
 <h3 align="center">
-Computer Science Student 💻
+🎓 Computer Science Graduate from Rajamangala krugthep University
+💻 Interested in Full stack Devoloper
 </h3>
 
 
 ---
 
-## 🚀 About Me
+## 🚀 Project
 
 - 🎓 Computer Science Student
 - 💻 Interested in Backend & Game Development
@@ -32,14 +33,14 @@ Computer Science Student 💻
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nataket007&show_icons=true"/>
 
 
 ---
 
 ## 🔥 Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURNAME"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nataket007"/>
 
 
 ---

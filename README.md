@@ -24,7 +24,7 @@ Hi I'm Natakit
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,;&nbsp;,mysql,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,mysql,git,vscode"/>
 
 </p>
 

@@ -22,15 +22,23 @@ Hi I'm Natakit
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" align="center">
 
-### 💻 Programming Languages
+## 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css&theme=dark&perline=3"/>
 
 </td>
 
-<td valign="top" width="50%">
+<td width="50%" align="center">
+
+## 🛠️ Skills
+
+<img src="https://skillicons.dev/icons?i=unity,opencv,pytorch,arduino,raspberrypi,git,github,vscode&theme=dark&perline=3"/>
+
+</td>
+</tr>
+</table>
 
 ### 🛠️ Skills & Tools
 

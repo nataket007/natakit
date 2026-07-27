@@ -33,7 +33,7 @@ Hi I'm Natakit
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataket007&show_icons=true&theme=github_dark)
 
 
 ---

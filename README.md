@@ -33,14 +33,14 @@ Hi I'm Natakit
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=natakit&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nataket007&show_icons=true"/>
 
 
 ---
 
 ## 🔥 Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=natakit"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nataket007"/>
 
 
 ---

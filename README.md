@@ -20,9 +20,17 @@ Hi I'm Natakit
 
 ---
 
-## 🚀 Skill
-<img src="https://skillicons.dev/icons?i=java,python,cpp,unity,opencv,arduino,raspberrypi,html,css,javascript,git,github,vscode&theme=dark&perline=7" />
+## 💻 Languages
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css&theme=dark&perline=6"/>
+</p>
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,opencv,pytorch,arduino,raspberrypi&theme=dark&perline=4"/>
+</p>
 
 ---
 

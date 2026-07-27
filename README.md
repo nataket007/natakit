@@ -20,9 +20,9 @@ Hi I'm Natakit
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,unity,opencv,arduino,raspberrypi,html,css,javascript,git,github,vscode&theme=dark&perline=7" />
-</p>
+## 🚀 Skill
+<img src="https://skillicons.dev/icons?i=java,python,cpp,unity,opencv,arduino,raspberrypi,html,css,javascript,git,github,vscode&theme=dark&perline=7" />
+
 
 ---
 

@@ -33,18 +33,19 @@ Hi I'm Natakit
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nataket007&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nataket&show_icons=true"/>
 
 
 ---
 
 ## 🔥 Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nataket007"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nataket"/>
 
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natakit&show_icons=true&theme=radical)
 
 ## 📫 Contact
 
-Email: your@email.com
+Email: nataket0980403754@gmail.com

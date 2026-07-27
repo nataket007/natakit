@@ -33,7 +33,10 @@ Hi I'm Natakit
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataket007&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nataket007&show_icons=true&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataket007&layout=compact&theme=github_dark" height="170"/>
+</p>
 
 
 ---

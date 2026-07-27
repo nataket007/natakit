@@ -20,13 +20,25 @@ Hi I'm Natakit
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-| 💻 Programming Languages | 🛠️ Skills & Tools |
-|:------------------------:|:------------------:|
-| <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css&theme=dark&perline=3"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,opencv,pytorch,arduino,raspberrypi&theme=dark&perline=4"/> |
+### 💻 Programming Languages
 
-</div>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css&theme=dark&perline=3"/>
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🛠️ Skills & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,unity,opencv,pytorch,arduino,raspberrypi&theme=dark&perline=4"/>
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 
